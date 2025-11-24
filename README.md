@@ -27,24 +27,9 @@
 
 ## 🎯 Project Title
 
-**MAITRI: Advanced Multimodal AI Assistant for Space Station Crew Mental Health Monitoring**
+**MAITRI: Advanced Multimodal Mental Health Monitoring AI Assistant for Space Station Crew **
 
 MAITRI (Mental Health AI for Space Station Crew) is a comprehensive AI-powered system designed to monitor and support the psychological well-being of astronauts during extended space missions at Bhartiya Antariksh Station.
-
-## 👥 Team Members
-
-### Core Development Team
-- **Ayush Shevde** - Project Lead & Full-stack Architect
-- **Manmeet Santre** - Frontend Developer (React/TypeScript)
-- **Anvit Panhalkar** - Backend Developer (Node.js/Express)
-- **Shreesh Jugade** - ML Engineer & AI Specialist
-- **Nihar Bapat** - UI/UX Designer & Accessibility Expert
-- **Ananya Munshi** - Project Manager & Video Documentation
-
-### Advisors & Mentors
-- **Professor H.B. Mali** - Academic Advisor
-- **Clinical Psychologists** - Domain Experts (Team Members' Families)
-- **Industry Professionals** - Technical Mentors
 
 ## 🌌 Background
 
@@ -324,12 +309,25 @@ We welcome contributions from developers, psychologists, and space medicine expe
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## 👥 Team Members
+
+### Core Development Team
+- **Ayush Shevde** - Project Lead & Full-Stack Architect
+- **Manmeet Santre** - Tech Lead & Full-Stack Developer  
+- **Anvit Panhalkar** - Backend Developer (Node.js/Express)
+- **Shreesh Jugade** - ML Engineer & AI Specialist
+- **Nihar Bapat** - UI/UX Designer & Accessibility Expert
+- **Ananya Munshi** - Project Manager & Video Documentation
+
+### Advisors & Mentors
+- **Psychologist** - Mrs. Dipti Panhalkar
+- **Psychiatrist** - Dr. Manjeet Santre
+- **Industry Professionals** - Mr. Anand Munshi
+
 ## 📞 Contact
 
 **MAITRI Development Team**
 - **Email**: mindmatters.sih2025@gmail.com
-- **Project Lead**: Ayush Shevde
-- **Technical Lead**: Manmeet Santre
 
 ---
 
