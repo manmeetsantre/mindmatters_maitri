@@ -85,7 +85,7 @@ The system is designed for space station environments with **hybrid online/offli
 - **TARS Interstellar AI Companion** (`Tars_Interstellar/`): Offline AI assistant inspired by TARS from Interstellar, running Llama 3.1 model locally via Ollama with voice recognition and text-to-speech capabilities
 - **Mood Prediction Models** (`moodtracker/`): TensorFlow/Keras models for mental health trend forecasting with facial emotion recognition using OpenCV face detection
 - **Sentiment Analysis** (`src/components/journal/`): Real-time emotion detection in journals and chats
-- **Voice Emotion Detection** (`Voice/voice_assistant.py`): Advanced audio-based emotion recognition using Whisper speech-to-text, supporting English, Hindi, and Kashmiri languages with multimodal fusion
+- **Voice Emotion Detection** (`Voice/voice_assistant.py`): Advanced audio-based emotion recognition using Whisper speech-to-text, supporting English and Hindi language with multimodal fusion.
 - **Multimodal Fusion**: Combined analysis of visual, audio, and textual inputs for comprehensive emotion detection
 
 ### 📊 Mental Health Tools (Auto-detected from components)
