@@ -1,4 +1,4 @@
-# MAITRI 🚀
+# MAITRI 🧠
 
 **AI-Powered Multimodal Mental Health Monitoring System for Bhartiya Antariksh Station Crew**
 
@@ -23,7 +23,6 @@
 - [Future Work](#-future-work)
 - [Contributing](#-contributing)
 - [License](#-license)
-- [Contact](#-contact)
 
 ## 🎯 Project Title
 
@@ -82,7 +81,7 @@ The system is designed for space station environments with **hybrid online/offli
 
 ### 🤖 AI & ML Capabilities (Auto-detected from codebase)
 - **Intelligent Chat Assistant** (`src/pages/AIChat.tsx`): NLP-powered conversations with therapeutic techniques using Gemini AI
-- **TARS Interstellar AI Companion** (`Tars_Interstellar/`): Offline AI assistant inspired by TARS from Interstellar, running Llama 3.1 model locally via Ollama with voice recognition and text-to-speech capabilities
+- **MAITRI Bot** (`Tars_Interstellar/`): Offline AI assistant, running Llama 3.1 model locally via Ollama with voice recognition and text-to-speech capabilities
 - **Mood Prediction Models** (`moodtracker/`): TensorFlow/Keras models for mental health trend forecasting with facial emotion recognition using OpenCV face detection
 - **Sentiment Analysis** (`src/components/journal/`): Real-time emotion detection in journals and chats
 - **Voice Emotion Detection** (`Voice/voice_assistant.py`): Advanced audio-based emotion recognition using Whisper speech-to-text, supporting English and Hindi language with multimodal fusion.
@@ -149,7 +148,7 @@ Python 3.8+ Ecosystem
 ```
 
 ### Key Technologies (From package.json analysis)
-- **Frontend**: React, TypeScript, Vite, Tailwind CSS, shadcn/ui
+- **Frontend**: React, TypeScript, Vite, Tailwind CSS, React
 - **Backend**: Node.js, Express, SQLite, Socket.io
 - **AI/ML**: Python, TensorFlow, Scikit-learn, Gemini AI
 - **Additional**: Chart.js, Spline, date-fns, bcryptjs
@@ -324,16 +323,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Psychiatrist** - Dr. Manjeet Santre
 - **Industry Professionals** - Mr. Anand Munshi
 
-## 📞 Contact
-
-**MAITRI Development Team**
-- **Email**: mindmatters.sih2025@gmail.com
-
 ---
 
-**MAITRI** - Pioneering AI-powered psychological support for India's space program. 🧠🚀
+**MAITRI** - Pioneering AI-powered psychological support for Astronauts. 🧠🚀
 
-*Built with ❤️ for Smart India Hackathon 2025 | Empowering Bhartiya Antariksh Station Crew*
+*Built with ❤️ | Empowering Bhartiya Antariksh Station Crew*
 
 ---
 
