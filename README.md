@@ -312,7 +312,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Core Development Team
 - **Ayush Shevde** - Project Lead & Full-Stack Architect
-- **Manmeet Santre** - Tech Lead & Full-Stack Developer  
+- **Manmeet Santre** - ML Lead & Full-Stack Developer  
 - **Anvit Panhalkar** - Backend Developer (Node.js/Express)
 - **Shreesh Jugade** - ML Engineer & AI Specialist
 - **Nihar Bapat** - UI/UX Designer & Accessibility Expert
